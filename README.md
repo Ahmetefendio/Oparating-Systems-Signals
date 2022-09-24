@@ -12,10 +12,10 @@ program has been worked using four different usages without argument and with th
 such as -p , -k and -all separately.
 
 Additionally, it may be taken as different time with the following parameters:
-● without argument , it prints the right usage of this program.
-● “ -all ”, it lists all the processes and some information about them.
-● “ -p processID ”, it outputs the given process ID and its command line.
-● “ -k processID ”, it kills the given process ID.
+● without argument , it prints the right usage of this program. 
+● “ -all ”, it lists all the processes and some information about them.  
+● “ -p processID ”, it outputs the given process ID and its command line.  
+● “ -k processID ”, it kills the given process ID.  
 
 The sample executing formats and its functionality shortly.
 ./processinfo.out > > program’s right usage
